@@ -11,11 +11,11 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 
 - 🔭 Desarrollo de landing page para streaming [Arte cocina y amor](https://github.com/leyargo7/streamingCocina)
 
-- 👯 Desarrollo de landing page para streaming [Noche artística Colegio Luis Horacio Gomez](https://noche-artistica.onrender.com)
+- 👯 Desarrollo de landing page para streaming [Noche artística Colegio Luis Horacio Gomez](https://github.com/leyargo7/event_colegio_lhg)
 
-- 🤝 Desarrollo Proyecto Individual soyHenry [Henry Video Games](https://productiongameapi.vercel.app/home)
+- 🤝 Desarrollo Proyecto Individual soyHenry [Henry Video Games](https://github.com/leyargo7/productiongameapi)
 
-- 🤝 Desarrollo Proyecto Final soyHenry [Henry Video Games](https://dreams-factory-pf.vercel.app/)
+- 🤝 Desarrollo Proyecto Final soyHenry [Henry Video Games](https://github.com/leyargo7/dreams-factory-pf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
