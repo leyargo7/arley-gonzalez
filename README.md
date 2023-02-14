@@ -7,6 +7,7 @@ En mi experiencia he realizado un par de aplicaciones web para clientes donde he
 
 Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y dispuesto a colaborar en lo que se requiera.
 
+<h3 align="left">Proyectos</h3>
 
 - 🔭 Desarrollo de landing page para streaming [Arte cocina y amor](https://stream-ccxo.onrender.com)
 
