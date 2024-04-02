@@ -3,7 +3,7 @@
 
 Me encuentro ubicado en la ciudad de Cali, Colombia. Me formé como Licenciado en Música y Magister en Informática Educativa. Soy un apasionado por la tecnología específicamente por la programación. Me inicié desarrollando algunos videojuegos pequeños en Unity 3D. Luego me enfoqué en el desarrollo web tomando cursos online. 
 
-En mi experiencia he realizado un par de aplicaciones web para clientes donde he utilizado tecnologías como NodeJS, Express, MongoDB, EJS, Socket.io, Azure entre otras. En mi GitHub encontrarán mas información al respecto y también algunos proyectos de estudio como parte de mi formación. 
+En mi experiencia he realizado aplicaciones web para clientes donde he utilizado tecnologías como NodeJS, Express, MongoDB, EJS, Socket.io, Azure entre otras. En mi GitHub encontrarán mas información al respecto y también algunos proyectos de estudio como parte de mi formación. 
 
 Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y dispuesto a colaborar en lo que se requiera.
 
