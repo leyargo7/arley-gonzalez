@@ -15,7 +15,9 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 
 - 🤝 Desarrollo Proyecto Individual soyHenry [Henry Video Games](https://github.com/leyargo7/productiongameapi)
 
-- 🤝 Desarrollo Proyecto Final soyHenry [Henry Video Games](https://github.com/leyargo7/dreams-factory-pf)
+- 🤝 Desarrollo Proyecto Final soyHenry [Computers Store](https://github.com/leyargo7/dreams-factory-pf)
+
+- 🔭 Appweb para estudiar frecuencias de audio. (https://gpxmedia.vercel.app/eartraining)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +30,3 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 Si estás interesado/a en conectarte conmigo o conocer más sobre mi, no dudes en enviarme un mensaje. Me encantaría conectarme con otros profesionales en mi campo y compartir ideas y conocimientos.
 
 email: leyargo7@gmail.com
-calendly: https://calendly.com/leyargo/reunion
