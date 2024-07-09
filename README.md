@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Arley Gonzalez</h1>
-<h3 align="center">Desarrollador Full Stack JavaScript</h3>
+<h3 align="center">Desarrollador Web</h3>
 
 Me encuentro ubicado en la ciudad de Cali, Colombia. Me formé como Licenciado en Música y Magister en Informática Educativa. Soy un apasionado por la tecnología específicamente por la programación. Me inicié desarrollando algunos videojuegos pequeños en Unity 3D. Luego me enfoqué en el desarrollo web tomando cursos online. 
 
