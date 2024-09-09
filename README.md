@@ -9,15 +9,17 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 
 <h3 align="left">Proyectos</h3>
 
-- 🔭 Desarrollo de landing page para streaming [Arte cocina y amor](https://github.com/leyargo7/streamingCocina)
-
-- 👯 Desarrollo de landing page para streaming [Noche artística Colegio Luis Horacio Gomez](https://github.com/leyargo7/event_colegio_lhg)
-
-- 🤝 Desarrollo Proyecto Individual soyHenry [Henry Video Games](https://github.com/leyargo7/productiongameapi)
-
-- 🤝 Desarrollo Proyecto Final soyHenry [Computers Store](https://github.com/leyargo7/dreams-factory-pf)
+- 🔭 Gpx color. Aplicación web para mostrar un mensaje y color remotamente. (https://gpxcolor.onrender.com/)
 
 - 🔭 Appweb para estudiar frecuencias de audio. (https://gpxmedia.vercel.app/eartraining)
+
+- 🔭 Desarrollo de landing page para streaming privado [En actualización]
+
+- 🤝 Desarrollo Proyecto académico [api Video Games]() //actualización
+
+- 🤝 Desarrollo Proyecto académico [Computers Store]() // actualización
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
