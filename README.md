@@ -9,7 +9,7 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 
 <h3 align="left">Proyectos</h3>
 
-- 🔭 Gpx color. Aplicación web para mostrar un mensaje y color remotamente. (https://gpxcolor.onrender.com/)
+- 🔭 Gpx color. Aplicación web para mostrar un mensaje y color remotamente. (https://github.com/leyargo7/gpxcolor)
 
 - 🔭 Appweb para estudiar frecuencias de audio. (https://gpxmedia.vercel.app/eartraining)
 
