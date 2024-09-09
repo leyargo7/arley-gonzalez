@@ -19,8 +19,6 @@ Me considero abierto a escuchar, con gran afinidad hacia el trabajo de equipo y 
 
 - 🔭 Appweb para estudiar frecuencias de audio. (https://gpxmedia.vercel.app/eartraining)
 
-- 🤝 Appweb específica (encargo) para que los estudiantes de Piano seleccionen la franja horaria para sus clases personalizadas. (https://piano-complementario-william.vercel.app)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arley-gonzalez-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arley-gonzalez-g/" height="30" width="40" /></a>
